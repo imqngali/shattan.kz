@@ -1,0 +1,7 @@
+﻿@font-face {
+  font-family: 'M PLUS Rounded 1c';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/mplusrounded1c/v15/VdGEAYIAV6gnpUpoWwNkYvrugw9RuMWBxLs-1.ttf) format('truetype');
+}
